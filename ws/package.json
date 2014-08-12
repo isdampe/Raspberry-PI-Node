@@ -1,0 +1,8 @@
+{
+  "name": "raspberry-pi-server",
+  "version": "0.0.1",
+  "dependencies": {
+    "pi-gpio": "*",
+    "net": "*"
+  }
+}
